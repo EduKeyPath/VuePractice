@@ -1,6 +1,10 @@
-# myvuepro
+# Vue.js Practice Project
+A beginner-friendly Vue.js project created to explore and learn the fundamentals of Vue 3, including components, data binding, event handling, and reactive state.
 
-> A Vue.js project
+# Purpose
+This project serves as a practice ground for understanding the basics of Vue.js. It includes simple examples and experiments with Vue features in a clean, minimal setup.
+
+
 
 ## Build Setup
 
